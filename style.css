@@ -1,0 +1,17 @@
+* {
+  //border: 2px solid red;
+  font-size: xx-large;
+}
+
+body {
+  display: flex-box;
+  height: 100vh;
+  background-color: grey;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+img {
+  height: 40%;
+}
